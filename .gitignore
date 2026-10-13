@@ -13,6 +13,9 @@ frontend/build/
 backend/bin/
 backend/obj/
 backend/.vs/
+**/.vs/
+*.user
+*.suo
 
 # IDE
 .vscode/
